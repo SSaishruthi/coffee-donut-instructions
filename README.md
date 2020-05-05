@@ -1,3 +1,27 @@
+# FactSheets for AI Servcices - A Step-by-Step Introduction
+
+FactSheets  aim  at  increasing  trust  in  AI  services through supplier's declarations of conformity.
+
+# FactSheet Sections
+
+1. Overview
+2. Purpose
+3. Intended  Domain
+4. Training  Data
+5. Model Information
+6. Inputs  and Outputs
+7. Performance  Metrics
+8. Test  Data
+9. Optimal Conditions
+10. Poor Conditions
+11. Explanation
+
+# Guide to Fill the FactSheet
+
+Question 1 to 3 - See section [Build and Deploy an image classifier on IBM Cloud](#build-and-deploy-an-image-classifier-on-ibm-cloud).
+Question 4 and 8 - See [here](/data)
+Question 5 to 7 and 9 to 11 - See here (/notebook)
+
 # Build and Deploy an image classifier on IBM Cloud
 This hands-on lab builds a neural network to predict an input image as that of coffee, donut or a mug.
 
