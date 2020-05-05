@@ -16,11 +16,13 @@ FactSheets  aim  at  increasing  trust  in  AI  services through supplier's decl
 10. Poor Conditions
 11. Explanation
 
+FactSheet template can be found [here](https://ibm.ent.box.com/folder/111823393444).
+
 # Guide to Fill the FactSheet
 
-Question 1 to 3 - See section [Build and Deploy an image classifier on IBM Cloud](#build-and-deploy-an-image-classifier-on-ibm-cloud).
-Question 4 and 8 - See [here](/data)
-Question 5 to 7 and 9 to 11 - See here (/notebook)
+- For question 1 to 3, see section [Build and Deploy an image classifier on IBM Cloud](#build-and-deploy-an-image-classifier-on-ibm-cloud).
+- For question 4 and 8, see [here](/assets/data).
+- For question 5 to 7 and 9 to 11, see the `Train a simple classifier` notebook [here](/assets/notebook).
 
 # Build and Deploy an image classifier on IBM Cloud
 This hands-on lab builds a neural network to predict an input image as that of coffee, donut or a mug.
