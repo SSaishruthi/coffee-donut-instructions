@@ -16,7 +16,7 @@ FactSheets  aim  at  increasing  trust  in  AI  services through supplier's decl
 10. Poor Conditions
 11. Explanation
 
-FactSheet template can be found [here](https://ibm.ent.box.com/folder/111823393444).
+FactSheet template can be found [here](http://ibm.biz/FactSheets).
 
 # Guide to Fill the FactSheet
 
